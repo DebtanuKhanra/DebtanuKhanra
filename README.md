@@ -102,12 +102,10 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
   
  
- <a href="https://open.spotify.com/user/313hcaq3srzstaenn5twongsuhhy">![](https://spotify-github-profile.vercel.app/api/view?uid=313hcaq3srzstaenn5twongsuhhy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)<br>![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=313hcaq3srzstaenn5twongsuhhy&width=310&count=2&unique={true|1|on|yes})</a>
+ <a href="https://open.spotify.com/user/313hcaq3srzstaenn5twongsuhhy">![](https://spotify-github-profile.vercel.app/api/view?uid=313hcaq3srzstaenn5twongsuhhy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)<br>
+  ![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=313hcaq3srzstaenn5twongsuhhy&width=310&count=3&unique={true|1|on|yes})</a>
 
 
-
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313hcaq3srzstaenn5twongsuhhy)
 
 
 
