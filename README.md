@@ -45,7 +45,7 @@
 
 
 
-### 🛠  Tech Stack
+### 🛠  My Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -55,6 +55,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 
 
 ### ☁️ Hosting/SaaS
@@ -86,10 +87,19 @@
 ### 🌎 Social Media Handles
 <a href="https://www.instagram.com/_______debtanu_______/">![](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://www.facebook.com/debtanu.k.s/">![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
-<br>
 <a href="https://www.linkedin.com/in/debtanu-khanra-149a931a5/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="debtanukhanra2000@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="mailto: debtanukhanra2000@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <br>
+  
+### 🎶 Music 
+  ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+  
+  
+  
+  
+  
+  
 <a href="https://open.spotify.com/user/313hcaq3srzstaenn5twongsuhhy">![](https://spotify-github-profile.vercel.app/api/view?uid=313hcaq3srzstaenn5twongsuhhy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)<br>![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=313hcaq3srzstaenn5twongsuhhy&width=310&count=2&unique={true|1|on|yes})</a>
 
 
