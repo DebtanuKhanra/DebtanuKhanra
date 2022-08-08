@@ -84,7 +84,6 @@
 
 ### 🌎 Social Media Handles
 <a href="https://www.instagram.com/_______debtanu_______/">![](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="https://play.google.com/store/apps/dev?id=7093715858380847229">![](https://camo.githubusercontent.com/0970391e8ed2f4cf4b738e87494c203e0e13052a6b7fa0468588ff7984e9ea8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c655f506c61792d3431343134313f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d706c6179266c6f676f436f6c6f723d7768697465)</a>
 <a href="https://www.facebook.com/utsanjan/">![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <br>
 <a href="https://www.linkedin.com/in/utsanjan/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -92,11 +91,10 @@
 <a href="https://discord.com/invite/uavTPkr/">![](https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)</a> 
 <a href="https://utsanjan.bio.link/"><img width="auto" height="28" src="https://bit.ly/3bDDagz"/></a>
 <br>
-<a href="https://openinapp.co/spotify/ea6de">![](https://spotify-github-profile.vercel.app/api/view?uid=	313hcaq3srzstaenn5twongsuhhy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)<br>![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=313hcaq3srzstaenn5twongsuhhy&width=310&count=2&unique={true|1|on|yes})</a>
+<a href="https://open.spotify.com/user/313hcaq3srzstaenn5twongsuhhy">![](https://spotify-github-profile.vercel.app/api/view?uid=313hcaq3srzstaenn5twongsuhhy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)<br>![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=313hcaq3srzstaenn5twongsuhhy&width=310&count=2&unique={true|1|on|yes})</a>
 
 
-
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313hcaq3srzstaenn5twongsuhhy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 
