@@ -1,4 +1,4 @@
-### Hello World 🌎, I'm Debtanu!- you can call me DAVID👋
+### Hello World 🌎, I'm Debtanu!👋 - call me DAVID😊
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebtanuKhanra&show_icons=true&theme=radical)
 
