@@ -94,6 +94,15 @@
 <a href="https://open.spotify.com/user/313hcaq3srzstaenn5twongsuhhy">![](https://spotify-github-profile.vercel.app/api/view?uid=313hcaq3srzstaenn5twongsuhhy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)<br>![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=313hcaq3srzstaenn5twongsuhhy&width=310&count=2&unique={true|1|on|yes})</a>
 
 
+<a href="https://openinapp.co/spotify/ea6de">![](https://spotify-github-profile.vercel.app/api/view?uid=ropqd325w883lo9x05iiqw4ej&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)<br>![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=ropqd325w883lo9x05iiqw4ej&width=310&count=2&unique={true|1|on|yes})</a>
+
+
+
+
+
+
+
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313hcaq3srzstaenn5twongsuhhy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
