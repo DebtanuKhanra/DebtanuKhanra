@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/utsanjan/utsanjan/main/cliStats.gif" height="175px"/></a>
 
 ## 🧑🏻‍💻 ‎ ‎Hello World 🌎 , I'm Debtanu! - call me DAVID ‎ ‎‎ ‎<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/><br>
-
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 
 [![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/DebtanuKhanra)‎ 
 [![GitHub User's visitors](https://komarev.com/ghpvc/?username=DebtanuKhanra&label=Profile%20views&color=129e00&style=plastic)](https://github.com/DebtanuKhanra#)‎ ‎
@@ -11,7 +11,7 @@
 ➜ㅤBTech Graduate in Elctrical Engineering <br>
 ➜ㅤI like to learn new coding languages <br>
 ➜ㅤI like to use Git & Docker <br>
-➜ㅤSelf teaching myself JAVA, .NET <br>
+➜ㅤI am currently learning everything on JAVA and .NET <br>
 ➜ㅤI'm also a Cyber Security Enthusiast <br>
 
 
@@ -97,15 +97,14 @@
   ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
   
-  
-  
+ 
   
   
   
 <a href="https://open.spotify.com/user/313hcaq3srzstaenn5twongsuhhy">![](https://spotify-github-profile.vercel.app/api/view?uid=313hcaq3srzstaenn5twongsuhhy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)<br>![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=313hcaq3srzstaenn5twongsuhhy&width=310&count=2&unique={true|1|on|yes})</a>
 
 
-<a href="https://openinapp.co/spotify/ea6de">![](https://spotify-github-profile.vercel.app/api/view?uid=ropqd325w883lo9x05iiqw4ej&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)<br>![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=ropqd325w883lo9x05iiqw4ej&width=310&count=2&unique={true|1|on|yes})</a>
+<!--<a href="https://openinapp.co/spotify/ea6de">![](https://spotify-github-profile.vercel.app/api/view?uid=ropqd325w883lo9x05iiqw4ej&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)<br>![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=ropqd325w883lo9x05iiqw4ej&width=310&count=2&unique={true|1|on|yes})</a>
 
 
 
