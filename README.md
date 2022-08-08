@@ -129,3 +129,24 @@
 
 ## 📝 Note:
 ***The most used languages denote the languages used in my repositories, it doesn't denote my skills in that language.***<br>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
