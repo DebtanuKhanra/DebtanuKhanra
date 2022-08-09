@@ -2,7 +2,9 @@
 
 
 
-<a href="https://app.daily.dev/DebtanuKhanra"><img align="left" src="https://api.daily.dev/devcards/80a9c6a932ba4ca7bf4396ddbfddf030.png?r=ulb" width="215" alt="DEBTANU KHANRA's Dev Card"/></a>
+
+
+<a href="https://app.daily.dev/DebtanuKhanra"><img align="left" src="https://api.daily.dev/devcards/80a9c6a932ba4ca7bf4396ddbfddf030.png?r=e5i" width="215" alt="DEBTANU KHANRA's Dev Card"/></a>
 
 
 ## 🧑🏻‍💻 ‎ ‎Hello World 🌎, I'm Debtanu! - call me DAVID ‎ ‎‎<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/><br>
