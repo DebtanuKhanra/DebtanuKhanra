@@ -15,14 +15,13 @@
 
 
 **Here are some points about myself :** <br>
+
 ➜ㅤBTech Graduate in Elctrical Engineering <br>
-➜ㅤI like to learn new coding languages <br>
 ➜ㅤI like to use Git & Docker <br>
+➜ㅤI like to learn new coding languages <br>
 ➜ㅤI am currently learning everything on JAVA and .NET <br>
-➜ㅤI'm also a Cyber Security Enthusiast <br>
+➜ㅤI like to complete my work properly <br>
 ➜ㅤI'm a painter by passion and an Engineer by profession <br>
-
-
 
 <!--
 <table>
@@ -92,8 +91,13 @@
 
 ## 🏢 Office
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+
+
+
 
 ## 🌎 Social Media Handles
 <a href="https://www.instagram.com/_______debtanu_______/">![](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)</a>
