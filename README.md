@@ -16,7 +16,7 @@
 
 **Here are some points about myself :** <br>
 
-➜ㅤBTech Graduate in Elctrical Engineering <br>
+➜ㅤBTech Graduate in Electrical Engineering <br>
 ➜ㅤI like to use Git & Docker <br>
 ➜ㅤI like to learn new coding languages <br>
 ➜ㅤI am currently learning everything on JAVA and .NET <br>
