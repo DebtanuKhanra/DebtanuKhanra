@@ -20,7 +20,7 @@
 ➜ㅤI like to learn new coding languages <br>
 ➜ㅤI am currently learning everything on JAVA and .NET <br>
 ➜ㅤI like to complete my work within a perfect time limit <br>
-➜ㅤI'm a painter by passion and an Engineer by profession <br>
+➜ㅤI love to meet up and work with different people <br>
 
 <!--
 <table>
