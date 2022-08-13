@@ -14,11 +14,10 @@
 [![GitHub User's visitors](https://komarev.com/ghpvc/?username=DebtanuKhanra&label=Profile%20views&color=129e00&style=plastic)](https://github.com/DebtanuKhanra#)‎ ‎
 
 
-### Here are some points about myself : <br>
+### Here are some points about myself : 
 ➜ㅤBTech Graduate in Electrical Engineering <br>
 ➜ㅤI like to use Git & Docker <br>
 ➜ㅤI like to learn new coding languages <br>
-➜  I Love To Meet Up And Work With Different People <br>
 ➜ㅤI am currently learning everything on JAVA and .NET <br>
 ➜ㅤI like to complete my work within a perfect time limit <br>
 ➜ㅤI'm a painter by passion and an Engineer by profession <br>
