@@ -144,7 +144,7 @@
  
  <div align="center">
 
-<img  height="40" src="https://img.shields.io/badge/😊Thanks🙏to%20all❤️‍🔥-000000?style=plastic&logoColor=white">
+<img  height="40" src="https://img.shields.io/badge/😊Thanks🙏to%20Visit%20My%20Profile❤️‍🔥-000000?style=plastic&logoColor=white">
 
 </div>
  
