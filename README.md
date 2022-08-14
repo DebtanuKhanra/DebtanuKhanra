@@ -74,8 +74,8 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)-->
 
-<details>
-<summary>‎ ‎ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴇxᴘᴀɴᴅ</summary><br>
+<!--<details>
+  <summary>‎‎<h1> Click on 😊 To Know more about me </h1></summary><br>-->
 
 ## 💾 Databases
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -109,7 +109,7 @@
 <a href="https://www.facebook.com/debtanu.k.s/">![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/debtanu-khanra-149a931a5/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto: debtanukhanra2000@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-<br> </details>
+<br> 
   
 ## 🎶 Music 
   ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
