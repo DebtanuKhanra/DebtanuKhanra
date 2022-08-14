@@ -142,7 +142,11 @@
 ## 📝 Note:
 ***The most used languages denote the languages used in my repositories, it doesn't denote my skills in that language.***<br>
  
- 
+ <div align="center">
+
+<img  height="40" src="https://img.shields.io/badge/😊Thanks🙏to%20all❤️‍🔥-000000?style=plastic&logoColor=white">
+
+</div>
  
  
  
