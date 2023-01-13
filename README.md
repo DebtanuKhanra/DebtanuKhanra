@@ -48,6 +48,7 @@
     <!-- GitHub Top Language Card -->
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebtanuKhanra&langs_count=6&layout=compact&theme=tokyonight"/></td>
   </tr>
+  
 </table>
 
 
