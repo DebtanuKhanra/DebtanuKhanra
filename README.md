@@ -119,6 +119,14 @@
 <a href="mailto: debtanukhanra2000@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <br> 
   
+ 
+  
+  
+  
+  
+  
+  <a href="https://metrics.lecoq.io/insights/debtanu"><img width="60%" height="auto" src="https://debtanu.netlify.app/images/userstats.svg" height="175px"/></a>
+  
 ## 🎶 Music 
   ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
