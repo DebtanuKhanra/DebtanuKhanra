@@ -125,7 +125,7 @@
   
   
   
-  <a href="https://metrics.lecoq.io/insights/utsanjan"><img width="60%" height="auto" src="https://utsanjan.netlify.app/images/userstats.svg" height="175px"/></a>
+  
   
 ## 🎶 Music 
   ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
